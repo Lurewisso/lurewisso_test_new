@@ -4,6 +4,4 @@
 ***
 Третий абзац
 ###### четвертый абзац
-[мой сайт]
-***
-(https://web.telegram.org/a/)
+[мой сайт] (https://web.telegram.org/a/)
